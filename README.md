@@ -3,7 +3,7 @@
 Dark Mode:
 </p>
 <p><img align="center" src="https://github.com/Prasham2407/Analog-Clock/blob/main/Snap-Shot1.png" alt="prasham2407" /></p>
-
+<p>By clicking on the button on the top right corner of screen, we can change the mode of this Analog Clock</p>
 <p align="left">
 Light Mode:
 </p>
